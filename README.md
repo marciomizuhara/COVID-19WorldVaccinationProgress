@@ -12,4 +12,4 @@ A personal take on an analytics of the current COVID-19 world vaccination progre
 
 ## Some analytics outputs
 
-![image](https://imgur.com/a/MIjJqKK.png)
+![alt text](https://imgur.com/a/MIjJqKK.png)
