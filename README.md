@@ -4,6 +4,10 @@
 
 A personal take on an analytics of the current COVID-19 world vaccination progress.
 
+# Datasets
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress
+https://www.kaggle.com/rsrishav/world-population
+
 ## Requirements / Libraries
 * Anaconda's Jupyter Notebook
 * Pandas 
